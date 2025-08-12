@@ -1,0 +1,1 @@
+__pycache__/, .venv/, env/, uploads/, *.db, *.sqlite, node_modules/, .DS_Store, .vscode/
